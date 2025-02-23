@@ -1,1 +1,6 @@
-
+beautifulsoup4
+requests
+qbittorrent-api
+pandas
+pysocks
+requests[socks]
